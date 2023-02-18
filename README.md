@@ -15,7 +15,10 @@
 <img width="529" alt="usercode" src="https://user-images.githubusercontent.com/104212460/219850043-4aad0233-56d4-4dde-99fb-176a4ec33055.png">
 
 그리고 147번 줄 url은 에뮬레이터로 할 땐 로컬호스트로 해도 되지만 핸드폰으로 연결해서 테스트 해볼 때는 자신의 네트워크 ip 주소를 로컬호스트 부분에 적어주면 된다.
+
 <img width="374" alt="주소" src="https://user-images.githubusercontent.com/104212460/219850044-74ca4142-fc83-4c39-9691-f1f71c24b4f7.png">
+
+
 다음은 테스트 화면 순서이다.
 
 1.어플을 시작했을 때
